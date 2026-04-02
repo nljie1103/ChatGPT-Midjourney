@@ -1,3 +1,9 @@
+> ⚠️ 本项目已停止维护，欢迎使用 **轻量级高性能跨平台AI对话 + AI网关桌面客户端AQBot**，全开源，你想要的他都有（对话，联网搜索，压缩对话，多模型，多服务商，网关，知识库，记忆，MCP等等等等）
+>
+> 开源地址：https://github.com/AQBot-Desktop/AQBot
+> 
+> ![](https://github.com/AQBot-Desktop/AQBot/raw/main/.github/images/1.png)
+
 <div align="center">
 
 <h1 align="center">🌻 ChatAny</h1>
